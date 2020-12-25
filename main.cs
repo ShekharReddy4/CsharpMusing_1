@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 
+
 public class BaseClass
 {
 	public BaseClass()
